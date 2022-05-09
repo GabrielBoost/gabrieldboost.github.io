@@ -99,6 +99,8 @@
 
 .right-title {
     color: #eeeeee;
+    font-size: 24px;
+    border-left: 2px solid #CD853F;
 }
 
 .gap {
@@ -142,4 +144,5 @@
 .awards-desc {
     font-size: 16px;
     padding-left: 5px;
+    border-left: 2px solid #ca9867;
 }
