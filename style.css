@@ -147,5 +147,5 @@
     border-left: 2px solid #ca9867;
 }
 .blur {
-    filter: blur(5px); /* O valor define a intensidade do desfoque */
+    filter: blur(90px); /* O valor define a intensidade do desfoque */
 }
